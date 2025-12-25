@@ -37,10 +37,10 @@ These algorithms were evaluated for high-fidelity video upscaling and post-proce
 
 ## 📦 Included Models
 This repository includes 4 variations of trained weights for the ESPCN engine:
-* `espcn_x2_v1.bin`
-* `espcn_x2_v2.bin`
-* `espcn_x3_v1.bin`
-* `espcn_x4_v1.bin`
+* `espcnanimex2.bin`
+* `espcnanimex3.bin`
+* `ESPCN_x2_anime.mlpackage`
+* `ESPCN_x3_anime.mlpackage`
 
 *(Note: These are raw binary weights intended to be loaded into the `weights` buffer in `ESPCN.metal`.)*
 
