@@ -1,6 +1,6 @@
 # YukinekoPlayer-Engine-Prototype
 
-# YukinekoPlayer - Research Engine Prototypes
+# Research
 
 This repository hosts experimental image processing engines and Metal shaders developed during the creation of **[YukinekoPlayer](https://github.com/nyoriworks/YukinekoPlayer)**.
 
